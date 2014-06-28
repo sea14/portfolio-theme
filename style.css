@@ -15,13 +15,13 @@ Text Domain: reactor-child
 /*theme custom below here */
 
 @import url("http://fonts.googleapis.com/css?family=Antic");
-@import url("http://fonts.googleapis.com/css?family=Alegraya")
+@import url("http://fonts.googleapis.com/css?family=Alegraya");
 
 
 
 body{
 
-	background-color: #191970;
+	
 	font-family: 'Antic', sans-serif;
 }
 
