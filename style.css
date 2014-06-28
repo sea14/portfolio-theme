@@ -1,0 +1,17 @@
+/*
+Theme Name: Reactor Child (Portfolio Theme)
+Theme URI: http://github.com/sea14/
+Description: child of reactor, responsive
+Author: Sharon Austin
+Author URI: http://www.sharon-elizabeth.com/
+Template: Reactor
+Version: 1.0.0
+Tags: repsonsive, blue, minimalist
+Text Domain: reactor-child
+*/
+
+@import url("../reactor/style.css");
+
+/*theme custom below here */
+
+h2{ font-family: "Cambria", serif; }
