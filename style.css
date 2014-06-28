@@ -17,3 +17,31 @@ Text Domain: reactor-child
 @import url("http://fonts.googleapis.com/css?family=Antic");
 @import url("http://fonts.googleapis.com/css?family=Alegraya")
 
+
+
+body{
+
+	background-color: #191970;
+	font-family: 'Antic', sans-serif;
+}
+
+h1{
+	color: #fff;
+	font-family: 'Antic', sans-serif;
+}
+
+h2{
+	font-family: 'Antic', sans-serif;
+}
+
+.content{
+
+	background-color: #fff;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	-moz-box-shadow: 0 8px 6px -6px black;
+	box-shadow: 0 8px 6px -6px black;
+	padding: 2%;
+	font-family: 'Antic', sans-serif;
+	
+
+}
