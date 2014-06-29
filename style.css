@@ -23,6 +23,7 @@ body{
 
 	
 	font-family: 'Antic', sans-serif;
+	background-color: #191970;
 }
 
 h1{
@@ -43,5 +44,16 @@ h2{
 	padding: 2%;
 	font-family: 'Antic', sans-serif;
 	
+}
 
+.site-header .site-description{
+
+	color: #fff;
+	font-family: 'Antic', sans-serif;
+
+}
+
+.site-header .site-title a{
+
+	color: #fff;
 }
