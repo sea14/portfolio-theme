@@ -14,7 +14,7 @@ Text Domain: reactor-child
 
 /*theme custom below here */
 
-@import url("http://fonts.googleapis.com/css?family=Antic");
+@import url("http://fonts.googleapis.com/css?family=Pontano+Sans");
 @import url("http://fonts.googleapis.com/css?family=Alegraya");
 
 
@@ -22,17 +22,17 @@ Text Domain: reactor-child
 body{
 
 	
-	font-family: 'Antic', sans-serif;
+	font-family: 'Pontano Sans', sans-serif;
 	background-color: #191970;
 }
 
 h1{
 	color: #fff;
-	font-family: 'Antic', sans-serif;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 h2{
-	font-family: 'Antic', sans-serif;
+	font-family: 'Pontano Sans', sans-serif;
 }
 
 .content{
@@ -42,14 +42,14 @@ h2{
 	-moz-box-shadow: 0 8px 6px -6px black;
 	box-shadow: 0 8px 6px -6px black;
 	padding: 2%;
-	font-family: 'Antic', sans-serif;
+	font-family: 'Pontano Sans', sans-serif;
 	
 }
 
 .site-header .site-description{
 
 	color: #fff;
-	font-family: 'Antic', sans-serif;
+	font-family: 'Pontano Sans', sans-serif;
 
 }
 
